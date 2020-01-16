@@ -1,0 +1,56 @@
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csprojAssemblyReference.cache
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\MainWindow.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\App.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken_MarkupCompile.cache
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken_MarkupCompile.lref
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.exe.config
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.exe
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.pdb
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\MainWindow.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.g.resources
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.Properties.Resources.resources
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csproj.GenerateResource.cache
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.exe
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.pdb
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Menu.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Menu.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameOver.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameOver.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Levels.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Levels.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameWindow.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameWindow.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Records.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Records.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\YourName.g.cs
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\YourName.baml
+C:\Users\Omen\Desktop\2 semestr\OOP\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\App.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.exe.config
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.exe
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\bin\Debug\InertiaByZeinekken.pdb
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csprojAssemblyReference.cache
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameOver.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameWindow.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Levels.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\MainWindow.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Menu.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Records.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\YourName.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\App.g.cs
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken_MarkupCompile.cache
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken_MarkupCompile.lref
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\App.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameOver.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\GameWindow.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Levels.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\MainWindow.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Menu.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\Records.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\YourName.baml
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.g.resources
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.Properties.Resources.resources
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csproj.GenerateResource.cache
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.exe
+C:\Users\Omen\Dropbox\Муха Богдан - lab3 - Inertia\InertiaByZeinekken\InertiaByZeinekken\obj\Debug\InertiaByZeinekken.pdb
